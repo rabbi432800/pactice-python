@@ -12,7 +12,7 @@ I enjoy solving real-world network problems and building practical IT solutions.
 IT professional with hands-on experience in ISP networks, monitoring systems, and technical support.  
 Currently focused on networking, servers, and preparing for an IT career in Germany.
 
-[![More Details](https://img.shields.io/badge/More_About_Me-Visit_Website-blue?style=for-the-badge)](#/about)
+[![More Details](https://img.shields.io/badge/More_About-Visit_Website-blue?style=for-the-badge)](#/about)
 
 ---
 
